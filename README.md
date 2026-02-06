@@ -1,4 +1,4 @@
-# Application de Gestion de Stock - Exercice 1
+# Application de Gestion de Stock 
 
 ## Description
 Application Java pour gérer le stock d'un magasin de produits informatiques.
